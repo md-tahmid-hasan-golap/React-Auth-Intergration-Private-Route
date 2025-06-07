@@ -1,0 +1,575 @@
+[
+  {
+    "id": "1",
+    "name": "Google",
+    "logo": "https://i.ibb.co.com/ynfRgFgN/10.jpg",
+    "location": "us",
+    "website": "https://google.com",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-001",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/BH6r6pgN/21.jpg",
+        "location": "canada",
+        "website": "https://google.com",
+        "salary": "$5000",
+        "jobType": "Full-time",
+        "description": "Exprense dont matter knowkege of html css and reactjs understanding of design",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js"
+        ]
+      },
+
+      {
+        "id": "job-002",
+        "title": "backend Developer",
+        "bannerImage": "https://i.ibb.co.com/GvBt9Dsp/22.png",
+        "location": "us",
+        "website": "https://google.com",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "Description of the job",
+        "requirements": [
+          "skill in basic javascript",
+          "skill in problem solving",
+          "skill in nodejs"
+        ]
+      },
+
+      {
+        "id": "job-003",
+        "title": "network Developer",
+        "bannerImage": "https://i.ibb.co.com/YFyn179r/26.jpg",
+        "location": "us",
+        "website": "https://google.com",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "Description of the job",
+        "requirements": [
+          "skill in computer",
+          "skill in networking",
+          "skill in topology"
+        ]
+      },
+
+      {
+        "id": "job-004",
+        "title": "App Developer",
+        "bannerImage": "https://i.ibb.co.com/7djJW2Dk/24.jpg",
+        "location": "us",
+        "website": "https://google.com",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "Description of the job",
+        "requirements": [
+          "skill in problem solving",
+          "skill in programing languages"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "2",
+    "name": "Netfilix",
+    "logo": "https://i.ibb.co.com/Y74fVPwC/11.jpg",
+    "location": "us",
+    "website": "https://www.netflix.com/bd/",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-005",
+        "title": "video Editor",
+        "bannerImage": "https://i.ibb.co.com/mCpZ76cC/37.jpg",
+        "location": "canada",
+        "salary": "$5000",
+        "website": "https://www.netflix.com/bd/",
+        "jobType": "Full-time",
+        "description": "we are looking for video editor exprience doesnt matter talent we need",
+        "requirements": [
+          "Good know of Graphces",
+          "good knowlege of content",
+          "understanding content",
+          "understing of videos"
+        ]
+      },
+
+      {
+        "id": "job-006",
+        "title": "Graphic designer",
+        "website": "https://www.netflix.com/bd/",
+        "bannerImage": "https://i.ibb.co.com/N2Dt1JyL/36.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for graphic designer exprience doesnt matter talent we need",
+        "requirements": [
+          "knowlege of design",
+          "photoshop",
+          "knoeledge of figma"
+        ]
+      },
+
+      {
+        "id": "job-007",
+        "title": "content creator",
+        "bannerImage": "https://i.ibb.co.com/m5c9W2RN/35.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "website": "https://www.netflix.com/bd/",
+        "jobType": "Full-time",
+        "description": "we are looking for content creator exprience doesnt matter talent we need",
+        "requirements": [
+          "basic knowledge of videos",
+          "video editing",
+          "visilazaion"
+        ]
+      },
+
+      {
+        "id": "job-008",
+        "title": "hacker",
+        "bannerImage": "https://i.ibb.co.com/KpKBcgmf/27.jpg",
+        "location": "us",
+        "salary": "$ 5000",
+        "website": "https://www.netflix.com/bd/",
+        "jobType": "Full-time",
+        "description": "we are looking for hacker exprience doesnt matter talent we need",
+        "requirements": [
+          "slill in programing language",
+          "skill in networking",
+          "skill in database"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "name": "Micosoft",
+    "logo": "https://i.ibb.co.com/gbRd1fH5/13.png",
+    "location": "us",
+    "website": "https://www.microsoft.com/en-us/",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-009",
+        "title": "Ai Engeerier",
+        "bannerImage": "https://i.ibb.co.com/GQ9WTm44/28.jpg",
+        "location": "canada",
+        "salary": "$5000",
+        "website": "https://www.microsoft.com/en-us/",
+        "jobType": "Full-time",
+        "description": "we are looking for Ai engeerier developer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in chat gpt",
+          "skill in Machine learing",
+          "skill in problem solving"
+        ]
+      },
+
+      {
+        "id": "job-0010",
+        "title": "Devoops developer",
+        "website": "https://www.microsoft.com/en-us/",
+        "bannerImage": "https://i.ibb.co.com/PGBR90fX/25.webp",
+        "location": "us",
+
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for devops exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in programing languages",
+          "skill in debanging ",
+          "problem solving"
+        ]
+      },
+
+      {
+        "id": "job-0011",
+        "title": "python developer",
+        "bannerImage": "https://i.ibb.co.com/7xKVnW12/38.png",
+        "location": "us",
+        "website": "https://www.microsoft.com/en-us/",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for python developer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in computer",
+          "skill in python",
+          "skill in django"
+        ]
+      },
+
+      {
+        "id": "job-0012",
+        "title": "system Developer",
+        "bannerImage": "https://i.ibb.co.com/3yYWKR78/39.jpg",
+        "location": "us",
+        "website": "https://www.microsoft.com/en-us/",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "we are looking for system developer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in computer",
+          "skill in os system",
+          "skill in problem solving"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "4",
+    "name": "Meta",
+    "logo": "https://i.ibb.co.com/23FgY3PB/20.jpg",
+    "location": "us",
+    "website": "https://www.facebook.com/#",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-0013",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/BH6r6pgN/21.jpg",
+        "location": "canada",
+
+        "website": "https://www.facebook.com/#",
+        "salary": "$5000",
+        "jobType": "Full-time",
+        "description": "we are looking for fronted developer exprience doesnt matter talent we need",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs",
+          "Good understanding of responsive design",
+          "Excellent problem-solving skills"
+        ]
+      },
+
+      {
+        "id": "job-0014",
+        "title": "Nextjs developer",
+        "bannerImage": "https://i.ibb.co.com/MyLNp2Qg/40.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "website": "https://www.facebook.com/#",
+        "description": "we are looking for nextjs exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in react",
+          "skill in basic javascript",
+          "Familiarity with RESTful APIs"
+        ]
+      },
+
+      {
+        "id": "job-0015",
+        "title": "Flutter Developer",
+        "bannerImage": "https://i.ibb.co.com/nsKvdmdm/42.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "website": "https://www.facebook.com/#",
+        "jobType": "Full-time",
+        "description": "we are looking for flutter exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in golang",
+          "skill in state",
+          "skill in problem solving"
+        ]
+      },
+
+      {
+        "id": "job-0016",
+        "title": "Mern Developer",
+        "bannerImage": "https://i.ibb.co.com/qLpJvh5j/41.jpg",
+        "location": "us",
+        "website": "https://www.facebook.com/#",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "we are looking for Mern developer exprience doesnt matter talent we need",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "skill in react",
+          "skill in nodejs"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "5",
+    "name": "Tesla",
+    "logo": "https://i.ibb.co.com/nq69DBzr/30.jpg",
+    "location": "us",
+    "website": "https://www.tesla.com/",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-0016",
+        "title": "Mecinical enineerer",
+        "bannerImage": "https://i.ibb.co.com/6cZN1Gsk/46.jpg",
+        "location": "canada",
+        "salary": "$5000",
+        "jobType": "Full-time",
+        "website": "https://www.tesla.com/",
+        "description": "we are looking for Menival engineerer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in besic machine",
+          "skill of problem solving",
+          "skill in electronics"
+        ]
+      },
+
+      {
+        "id": "job-0017",
+        "title": "Robort Developer",
+        "bannerImage": "https://i.ibb.co.com/zWQK4y72/47.jpg",
+        "location": "us",
+        "website": "https://www.tesla.com/",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for Robort engineerer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in programing",
+          "skill in python",
+          "skill in Mechine learing"
+        ]
+      },
+
+      {
+        "id": "job-0018",
+        "title": "Android developer",
+        "bannerImage": "https://i.ibb.co.com/YFyn179r/26.jpg",
+        "location": "us",
+        "website": "https://www.tesla.com/",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for a Android developer exprience doesnt matter talent we need",
+        "requirements": ["skill in programing", "skilll in problem solving"]
+      },
+
+      {
+        "id": "job-0019",
+        "title": "App Developer",
+        "bannerImage": "https://i.ibb.co.com/7djJW2Dk/24.jpg",
+        "location": "us",
+        "website": "https://www.tesla.com/",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "Description of the job",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js",
+          "Familiarity with RESTful APIs"
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "6",
+    "name": "Amazon",
+    "logo": "https://i.ibb.co.com/wNdY4zWs/31.jpg",
+    "location": "us",
+    "website": "https://www.amazon.com/",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-0020",
+        "title": "Frontend Developer",
+        "bannerImage": "https://i.ibb.co.com/BH6r6pgN/21.jpg",
+        "location": "canada",
+        "salary": "$5000",
+        "website": "https://www.amazon.com/",
+        "jobType": "Full-time",
+        "description": "we are looking for fronted developer exprience doesnt matter talent we need",
+        "requirements": [
+          "Proficient in HTML, CSS, and JavaScript",
+          "Experience with React or Vue.js"
+        ]
+      },
+
+      {
+        "id": "job-0021",
+        "title": "React developer",
+        "website": "https://www.amazon.com/",
+        "bannerImage": "https://i.ibb.co.com/5XpdqLP6/43.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for react developer exprience doesnt matter talent we need",
+        "requirements": ["besic javascript", "understing desingn"]
+      },
+
+      {
+        "id": "job-0022",
+        "title": "React native Developer",
+        "bannerImage": "https://i.ibb.co.com/BMXz2Sg/44.jpg",
+        "location": "us",
+        "website": "https://www.amazon.com/",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "Description of the job",
+        "requirements": ["javascript", "html,css", "responsive design"]
+      },
+
+      {
+        "id": "job-0023",
+        "title": "system Developer",
+        "bannerImage": "https://i.ibb.co.com/3yYWKR78/39.jpg",
+        "location": "us",
+        "website": "https://www.amazon.com/",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "we are looking for a system developer exprience doesnt matter talent we need",
+        "requirements": ["skill in computer", "skill in problem solving"]
+      }
+    ]
+  },
+
+  {
+    "id": "7",
+    "name": "Apple",
+    "logo": "https://i.ibb.co.com/7xcLYS8k/32.png",
+    "location": "us",
+    "website": "https://www.apple.com/store",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-0024",
+        "title": "Flutter Developer",
+        "bannerImage": "https://i.ibb.co.com/nsKvdmdm/42.jpg",
+        "location": "canada",
+        "salary": "$5000",
+        "jobType": "Full-time",
+        "website": "https://www.apple.com/store",
+        "description": "we are looking for a flutter developer exprience doesnt matter talent we need",
+        "requirements": ["skill in chat gpt", "skill in golang"]
+      },
+
+      {
+        "id": "job-0025",
+        "title": "React native Developer",
+        "website": "https://www.apple.com/store",
+        "bannerImage": "https://i.ibb.co.com/BMXz2Sg/44.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for a react native developer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in basic javascript",
+          "skill in problem solving"
+        ]
+      },
+
+      {
+        "id": "job-0026",
+        "title": "Ai Engeerier",
+        "bannerImage": "https://i.ibb.co.com/GQ9WTm44/28.jpg",
+        "location": "us",
+        "website": "https://www.apple.com/store",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for Ai engeerier developer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in chat gpt",
+          "skill in computer",
+          "skill in Machine learing"
+        ]
+      },
+
+      {
+        "id": "job-0027",
+        "title": "App Developer",
+        "bannerImage": "https://i.ibb.co.com/7djJW2Dk/24.jpg",
+        "location": "us",
+        "website": "https://www.apple.com/store",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "Description of the job",
+        "requirements": ["skill in golang", "skill in problem solving"]
+      }
+    ]
+  },
+
+  {
+    "id": "8",
+    "name": "SpaceX",
+    "logo": "https://i.ibb.co.com/yB0p8sHv/33.jpg",
+    "location": "us",
+    "website": "https://www.spacex.com/",
+    "industry": "Software Development",
+
+    "jobs": [
+      {
+        "id": "job-0029",
+        "title": "Ai Engeerier",
+        "bannerImage": "https://i.ibb.co.com/GQ9WTm44/28.jpg",
+        "location": "canada",
+        "website": "https://www.spacex.com/",
+        "salary": "$5000",
+        "jobType": "Full-time",
+        "description": "we are looking for Ai engeerier developer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in chat gpt",
+          "skill in networking",
+          "skill in Mechine learing"
+        ]
+      },
+
+      {
+        "id": "job-0030",
+        "title": "Mecinical enineerer",
+        "website": "https://www.spacex.com/",
+        "bannerImage": "https://i.ibb.co.com/6cZN1Gsk/46.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for Menival engineerer exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in besic machine",
+          "skill in electronics",
+          "skill in problem solving"
+        ]
+      },
+
+      {
+        "id": "job-0031",
+        "title": "Robort Developer",
+        "website": "https://www.spacex.com/",
+        "bannerImage": "https://i.ibb.co.com/zWQK4y72/47.jpg",
+        "location": "us",
+        "salary": "$50000",
+        "jobType": "Full-time",
+        "description": "we are looking for Robort engineerer exprience doesnt matter talent we need",
+        "requirements": ["skill in Machine learing", "skill in programing"]
+      },
+
+      {
+        "id": "job-0032",
+        "title": "hacker",
+        "bannerImage": "https://i.ibb.co.com/KpKBcgmf/27.jpg",
+
+        "website": "https://www.spacex.com/",
+        "location": "us",
+        "salary": "$ 5000",
+        "jobType": "Full-time",
+        "description": "we are looking for hacker exprience doesnt matter talent we need",
+        "requirements": [
+          "skill in computer",
+          "skill in programing languages",
+          "skill in problem solving"
+        ]
+      }
+    ]
+  }
+]
